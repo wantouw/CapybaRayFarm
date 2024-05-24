@@ -1,5 +1,5 @@
 # CapybaRayFarm
-A simple farm 3D website using three.js. Consists of a pig farmer, its house and some trees, accompanied by a capybara. Hover on the pig or capybara for fun effects!
+A simple 3D farm website using three.js. Consists of a pig farmer, its house and some trees, accompanied by a capybara. Hover on the pig or capybara for fun effects!
 
 ## How to run
 - Simply use the live server extension from Visual Studio Code to run the website locally
